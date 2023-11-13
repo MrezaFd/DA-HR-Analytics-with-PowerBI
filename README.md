@@ -43,6 +43,7 @@ Mondays were the days when most employees took sick leaves.
 it can be concluded that remote work is becoming more prevalent and acceptable in the workplace, and this trend is likely to continue. Additionally, it may be necessary for the organization to address the slight decrease in attendance and increase in sick leaves to ensure employee productivity and well-being. Finally, the insights regarding the days of the week when employees are present in the office or work from home, as well as the days when sick leaves are taken the most, can be useful in scheduling and resource allocation.
 
 Medium : [CLICK HERE](https://drive.google.com/file/d/1bHBOZtSpPyElH_pxssYv1Q0jKGDokK6r/view?usp=share_link](https://medium.com/@rezafahlopysd/revolutionizing-hr-analytics-with-power-bi-turning-data-into-actionable-decision-70bad61c804)https://medium.com/@rezafahlopysd/revolutionizing-hr-analytics-with-power-bi-turning-data-into-actionable-decision-70bad61c804).
+
 Final Report File: [CLICK HERE](https://drive.google.com/file/d/1bHBOZtSpPyElH_pxssYv1Q0jKGDokK6r/view?usp=share_link)
 
 
